@@ -23,3 +23,14 @@ Project Modules:
 Module1:
 ----------------------------------
 a) Data analysis
+
+
+
+
+
+
+References and links
+---------------------
+[1] https://www.tensorflow.org/get_started/summaries_and_tensorboard
+[2] http://ischlag.github.io/2016/06/04/how-to-use-tensorboard/
+[3] 
